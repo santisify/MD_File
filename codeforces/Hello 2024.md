@@ -87,7 +87,8 @@ signed main() {
 
 ## 题目大意
 
-> ![image.png](assets/image.png)
+> ![image.png](http://tuchuang.lazy-boy-acmer.cn/images/202404060855225.png)
+
 
 ## 解题思路
 

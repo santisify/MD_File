@@ -1,5 +1,6 @@
 # J 
-![[img.png]]
+![img.png](http://tuchuang.lazy-boy-acmer.cn/images/202404060859343.png)
+
 
 > Floyd 算法跑一遍就ok
 ```c++
@@ -72,7 +73,8 @@ signed main() {
 ```
 
 # A
-![[img1.png]]
+![img1.png](http://tuchuang.lazy-boy-acmer.cn/images/202404060859655.png)
+
 
 > 判断两年是否均为闰年或平年,并且这两年的第一天均为周一
 
@@ -113,7 +115,8 @@ signed main() {
 ```
 
 # E
-![img.png](../images/img3.png)
+![img3.png](http://tuchuang.lazy-boy-acmer.cn/images/202404060859299.png)
+
 
 > dp
 ```c++
