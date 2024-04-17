@@ -199,7 +199,7 @@ signed main() {
 ## 解题思路
 > 就是一个典型的 $dp$ 题. 定义 $dp_{i,j}$ 表示前 $i$ 件装备,花费 $j$ 的金币可以获得的最大战力.
 > 首先,当我们不买第 $i$ 件装备,那么 $dp_{i,j}=dp_{i-1, j}$ 
-> 其次,我们买第 $i$ 件装备,那么就需要考虑给这件装备升 $k$ 级, 那么就需要考虑 $price_{i} + k * cost_{i}$ 与 $j$ 的大小.若 $price_{i} + k * cost_{i}<j$, $dp_{i,j}= \max({dp_{i,j},dp_{i-1,j-price_{i}-k*cost_{i}}+att_{i}+k*upgrade_{i}})$
+> 其次,我们买第 $i$ 件装备,那么就需要考虑给这件装备升 $k$ 级, 那么就需要考虑 $price_{i} + k * cost_{i}$ 与 $j$ 的大小.若 $price_{i} + k * cost_{i}<j$ , $dp_{i,j}= \max({dp_{i,j},dp_{i-1,j-price_{i}-k*cost_{i}}+att_{i}+k*upgrade_{i}})$
 
 ## 参考代码
 ```cpp
