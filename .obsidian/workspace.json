@@ -11,9 +11,9 @@
             "id": "191c2c121e241a8d",
             "type": "leaf",
             "state": {
-              "type": "vscode-editor",
+              "type": "pdf",
               "state": {
-                "file": "GPLT2024/L1-6.cpp"
+                "file": "Java EE/实验四/实验4 MyBatis实验补充案例.pdf"
               }
             }
           }
@@ -67,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "a5ca80541c209809",
@@ -83,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GPLT2024/L1-6.cpp",
+                "file": "Java EE/实验四/实验4 MyBatis实验补充案例.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GPLT2024/L1-6.cpp",
+                "file": "Java EE/实验四/实验4 MyBatis实验补充案例.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GPLT2024/L1-6.cpp"
+                "file": "Java EE/实验四/实验4 MyBatis实验补充案例.pdf"
               }
             }
           }
@@ -132,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,17 +150,21 @@
   },
   "active": "191c2c121e241a8d",
   "lastOpenFiles": [
-    "GPLT2024/L1-1.cpp",
+    "Java EE/实验四/实验4 MyBatis实验补充案例.pdf",
+    "Atcoder/ABC Round.350.md",
+    "codeforces/模板.md",
+    "Java EE/实验四/实验4 MyBatis实验/实验4 Spring与MyBatis实验.pdf",
+    "Java EE/实验二/实验2 Spring JDBC实验.pdf",
+    "Java EE/实验二/2、Spring核心容器.pdf",
+    "模板/算法模板.md",
+    "codeforces/Codeforces Round 914 (Div. 2).md",
     "GPLT2024/L1-6.cpp",
+    "GPLT2024/L1-1.cpp",
     "GPLT2024/L2-1.cpp",
     "GPLT2024/L2-4.cpp",
     "GPLT2024/L1-2.cpp",
     "Atcoder/ABC Round.338.md",
     "GPLT2024/L3-2.cpp",
-    "GPLT2024/L3-1.cpp",
-    "GPLT2024/L2-3.cpp",
-    "GPLT2024/L1-8.cpp",
-    "GPLT2024/L2-2.cpp",
-    "GPLT2024/L1-7.cpp"
+    "GPLT2024/L3-1.cpp"
   ]
 }
