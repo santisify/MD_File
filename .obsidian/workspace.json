@@ -11,9 +11,9 @@
             "id": "191c2c121e241a8d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "vscode-editor",
               "state": {
-                "file": "Java EE/实验四/实验4 MyBatis实验补充案例.pdf"
+                "file": "GPLT2024/L1-1.cpp"
               }
             }
           }
@@ -67,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "a5ca80541c209809",
@@ -84,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java EE/实验四/实验4 MyBatis实验补充案例.pdf",
+                "file": "GPLT2024/L1-1.cpp",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java EE/实验四/实验4 MyBatis实验补充案例.pdf",
+                "file": "GPLT2024/L1-1.cpp",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java EE/实验四/实验4 MyBatis实验补充案例.pdf"
+                "file": "GPLT2024/L1-1.cpp"
               }
             }
           }
@@ -133,8 +132,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,21 +148,21 @@
   },
   "active": "191c2c121e241a8d",
   "lastOpenFiles": [
+    "Java EE/实验二/2、Spring核心容器.pdf",
+    "GPLT2024/L1-6.cpp",
+    "GPLT2024/L1-2.cpp",
+    "GPLT2024/L1-3.cpp",
+    "GPLT2024/L1-1.cpp",
+    "Java EE/实验四/实验4 MyBatis实验/实验4 Spring与MyBatis实验.pdf",
     "Java EE/实验四/实验4 MyBatis实验补充案例.pdf",
     "Atcoder/ABC Round.350.md",
     "codeforces/模板.md",
-    "Java EE/实验四/实验4 MyBatis实验/实验4 Spring与MyBatis实验.pdf",
     "Java EE/实验二/实验2 Spring JDBC实验.pdf",
-    "Java EE/实验二/2、Spring核心容器.pdf",
     "模板/算法模板.md",
     "codeforces/Codeforces Round 914 (Div. 2).md",
-    "GPLT2024/L1-6.cpp",
-    "GPLT2024/L1-1.cpp",
     "GPLT2024/L2-1.cpp",
     "GPLT2024/L2-4.cpp",
-    "GPLT2024/L1-2.cpp",
     "Atcoder/ABC Round.338.md",
-    "GPLT2024/L3-2.cpp",
-    "GPLT2024/L3-1.cpp"
+    "GPLT2024/L3-2.cpp"
   ]
 }
