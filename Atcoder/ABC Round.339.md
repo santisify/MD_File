@@ -1,3 +1,8 @@
+---
+tags:
+  - 题解
+  - atcoder
+---
 # A  [TLD](https://atcoder.jp/contests/abc339/tasks/abc339_a)
 
 ## 题目描述

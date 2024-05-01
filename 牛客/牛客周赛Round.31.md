@@ -1,3 +1,8 @@
+---
+tags:
+  - 题解
+  - acnowcoder
+---
 [传送门](https://ac.nowcoder.com/acm/contest/74362#question)
 # A  [小红小紫替换](https://ac.nowcoder.com/acm/contest/74362/A)
 

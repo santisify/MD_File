@@ -1,3 +1,8 @@
+---
+tags:
+  - 题解
+  - atcoder
+---
 # A [Arithmetic Progression](https://atcoder.jp/contests/abc340/tasks/abc340_a)
 
 ## 题目描述

@@ -1,3 +1,8 @@
+---
+tags:
+  - 题解
+  - codeforces
+---
 # A [Problemsolving Log](https://codeforces.com/contest/1914/problem/A)
 
 ## 题目描述

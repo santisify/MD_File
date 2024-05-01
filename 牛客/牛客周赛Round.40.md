@@ -1,3 +1,8 @@
+---
+tags:
+  - 题解
+  - acnowcoder
+---
 [传送门](https://ac.nowcoder.com/acm/contest/80259)
 # A [小红进地下城](https://ac.nowcoder.com/acm/contest/80259/A)
 

@@ -1,3 +1,8 @@
+---
+tags:
+  - 题解
+  - codeforces
+---
 # [Educational Codeforces Round 159 (Rated for Div. 2)](https://codeforces.com/contest/1902)
 
 ## A [Binary Imbalance](https://codeforces.com/contest/1902/problem/A)

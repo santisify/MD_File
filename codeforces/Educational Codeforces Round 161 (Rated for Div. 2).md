@@ -1,3 +1,8 @@
+---
+tags:
+  - 题解
+  - codeforces
+---
 # A [Tricky Template](https://codeforces.com/contest/1922/problem/A)
 
 ## 题目描述

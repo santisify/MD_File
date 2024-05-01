@@ -1,3 +1,8 @@
+---
+tags:
+  - codeforces
+  - 题解
+---
 # [Good Bye 2023](https://codeforces.com/contest/1916)
 
 ## A [2023](https://codeforces.com/contest/1916/problem/A)

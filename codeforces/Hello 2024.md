@@ -1,3 +1,8 @@
+---
+tags:
+  - 题解
+  - codeforces
+---
 # A [Wallet Exchange](https://codeforces.com/contest/1919/problem/A)
 
 ## 题目大意

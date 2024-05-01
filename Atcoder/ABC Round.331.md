@@ -1,3 +1,8 @@
+---
+tags:
+  - 题解
+  - atcoder
+---
 # A [Tomorrow](https://atcoder.jp/contests/abc331/tasks/abc331_a)
 
 ## 题目大意

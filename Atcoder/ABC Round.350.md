@@ -1,3 +1,8 @@
+---
+tags:
+  - 题解
+  - atcoder
+---
 # A [Past ABCs](https://atcoder.jp/contests/abc350/tasks/abc350_a)
 
 ## 题目描述

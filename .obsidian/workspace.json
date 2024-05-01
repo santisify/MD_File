@@ -11,9 +11,11 @@
             "id": "191c2c121e241a8d",
             "type": "leaf",
             "state": {
-              "type": "vscode-editor",
+              "type": "markdown",
               "state": {
-                "file": "GPLT2024/L1-1.cpp"
+                "file": "算法学习/并查集.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 301.5
   },
   "right": {
     "id": "a5ca80541c209809",
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GPLT2024/L1-1.cpp",
+                "file": "算法学习/并查集.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GPLT2024/L1-1.cpp",
+                "file": "算法学习/并查集.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GPLT2024/L1-1.cpp"
+                "file": "算法学习/并查集.md"
               }
             }
           }
@@ -136,33 +138,54 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "vscode-editor:新建代码文件": false
+      "vscode-editor:新建代码文件": false,
+      "remotely-save:Remotely Save": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
   "active": "191c2c121e241a8d",
   "lastOpenFiles": [
+    "模板/算法模板.md",
+    "牛客/牛客小白月赛90.md",
+    "牛客/牛客周赛Round.31.md",
+    "牛客/牛客周赛Round.38.md",
+    "牛客/牛客周赛Round.40.md",
+    "算法学习/并查集.md",
+    "算法学习/数学知识.md",
+    "算法学习/图论.md",
+    "算法学习/最短路问题.md",
+    "算法学习/最小生成树,二分图.md",
+    "算法学习/ST表.md",
+    "ABTU/ABTU 2023 Round 7 (div. 2).md",
+    "ABTU/ABTU校赛补题.md",
+    "Atcoder/ABC Round.350.md",
+    "Atcoder/ABC Round.340.md",
+    "Atcoder/ABC Round.339.md",
+    "Atcoder/ABC Round.338.md",
+    "Atcoder/ABC Round.331.md",
+    "Atcoder/ABC Round 348.md",
+    "codeforces/Codeforces Round 912 (Div.2).md",
+    "codeforces/Codeforces Round 913 (Div. 3).md",
+    "codeforces/Codeforces Round 914 (Div. 2).md",
+    "codeforces/Codeforces Round 916 (Div. 3).md",
+    "codeforces/Codeforces Round 922 (Div. 2).md",
+    "codeforces/Educational Codeforces Round 159 (Rated for Div. 2).md",
+    "codeforces/Educational Codeforces Round 160 (Rated for Div. 2).md",
+    "比赛题解/GPLT2024/L1-1.cpp",
     "Java EE/实验二/2、Spring核心容器.pdf",
-    "GPLT2024/L1-6.cpp",
-    "GPLT2024/L1-2.cpp",
-    "GPLT2024/L1-3.cpp",
-    "GPLT2024/L1-1.cpp",
+    "比赛题解/GPLT2024/L1-6.cpp",
+    "比赛题解/GPLT2024/L1-2.cpp",
+    "比赛题解/GPLT2024/L1-3.cpp",
     "Java EE/实验四/实验4 MyBatis实验/实验4 Spring与MyBatis实验.pdf",
     "Java EE/实验四/实验4 MyBatis实验补充案例.pdf",
-    "Atcoder/ABC Round.350.md",
-    "codeforces/模板.md",
     "Java EE/实验二/实验2 Spring JDBC实验.pdf",
-    "模板/算法模板.md",
-    "codeforces/Codeforces Round 914 (Div. 2).md",
-    "GPLT2024/L2-1.cpp",
-    "GPLT2024/L2-4.cpp",
-    "Atcoder/ABC Round.338.md",
-    "GPLT2024/L3-2.cpp"
+    "比赛题解/GPLT2024/L2-1.cpp",
+    "比赛题解/GPLT2024/L2-4.cpp"
   ]
 }

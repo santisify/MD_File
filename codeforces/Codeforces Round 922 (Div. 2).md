@@ -1,3 +1,8 @@
+---
+tags:
+  - 题解
+  - codeforces
+---
 # A [Brick Wall](https://codeforces.com/contest/1918/problem/A)
 
 ## 题目描述

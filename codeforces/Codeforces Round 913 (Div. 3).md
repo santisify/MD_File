@@ -1,3 +1,8 @@
+---
+tags:
+  - 题解
+  - codeforces
+---
 # A [Rook](https://codeforces.com/contest/1907/problem/A)
 
 ## 题目大意

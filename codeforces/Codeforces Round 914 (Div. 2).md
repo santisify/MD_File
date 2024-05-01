@@ -1,3 +1,8 @@
+---
+tags:
+  - 题解
+  - codeforces
+---
 # A [Forked!](https://codeforces.com/contest/1904/problem/A)
 
 ## 题目大意

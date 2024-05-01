@@ -3,5 +3,6 @@
   "obsidian-latex-suite",
   "obsidian-style-settings",
   "obsidian-image-auto-upload-plugin",
-  "vscode-editor"
+  "vscode-editor",
+  "remotely-save"
 ]

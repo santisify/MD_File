@@ -1,3 +1,8 @@
+---
+tags:
+  - 题解
+  - atcoder
+---
 # A [Penalty Kick](https://atcoder.jp/contests/abc348/tasks/abc348_a)
 ## 题目描述
 > 输出`n`个字符，每两个`o`后输出一个`x`

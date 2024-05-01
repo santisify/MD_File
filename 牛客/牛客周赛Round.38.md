@@ -1,3 +1,8 @@
+---
+tags:
+  - 题解
+  - acnowcoder
+---
 # A [小红的正整数自增](https://ac.nowcoder.com/acm/contest/78292/A)
 ## 题目描述
 > 输入一个数`n`,输出需要加多少个`1`才能将个位数变为`1`

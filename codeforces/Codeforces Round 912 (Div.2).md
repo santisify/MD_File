@@ -1,3 +1,8 @@
+---
+tags:
+  - 题解
+  - codeforces
+---
 
 ## A [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A)
 
