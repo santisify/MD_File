@@ -25,7 +25,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Java EE/实验五/实验5 Spring+SpringMVC+MyBatis整合实验/实验5 Spring+SpringMVC+MyBatis整合实验.pdf"
+                "file": "模板/hello-algo-1.1.0-zh-cpp.pdf"
               }
             }
           }
@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "a5ca80541c209809",
@@ -97,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "算法学习/图论.md",
+                "file": "模板/hello-algo-1.1.0-zh-cpp.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "算法学习/图论.md"
+                "file": "模板/hello-algo-1.1.0-zh-cpp.pdf"
               }
             }
           },
@@ -146,12 +145,13 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "0647419e53be96a1",
+  "active": "395c6813f59b7e1c",
   "lastOpenFiles": [
+    "Java EE/实验五/实验5 Spring+SpringMVC+MyBatis整合实验/实验5 Spring+SpringMVC+MyBatis整合实验.pdf",
+    "算法学习/图论.md",
     "模板/算法模板.md",
     "算法学习/数学知识.md",
     "Excalidraw/Drawing 2024-05-09 10.01.39.excalidraw.md",
-    "算法学习/图论.md",
     "Excalidraw",
     "牛客/牛客周赛Round.38.md",
     "牛客/牛客小白月赛90.md",
@@ -182,7 +182,6 @@
     "Atcoder/ABC Round.331.md",
     "Atcoder/ABC Round 348.md",
     "codeforces/Codeforces Round 912 (Div.2).md",
-    "codeforces/Codeforces Round 914 (Div. 2).md",
-    "codeforces/Codeforces Round 916 (Div. 3).md"
+    "codeforces/Codeforces Round 914 (Div. 2).md"
   ]
 }
