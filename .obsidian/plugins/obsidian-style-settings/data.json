@@ -8,5 +8,8 @@
   "blue-topaz-theme@@background-settings-workplace-theme-light": "background-settings-workplace-theme-light-custom-option",
   "blue-topaz-theme@@background-settings-workplace-theme-light-custom": "url(\"http://tuchuang.lazy-boy-acmer.cn/images/202404212107932.jpg\")",
   "blue-topaz-theme@@background-settings-workplace-theme-dark": "background-settings-workplace-theme-dark-custom-option",
-  "blue-topaz-theme@@background-settings-workplace-theme-dark-custom": "url(\"http://tuchuang.lazy-boy-acmer.cn/images/202404212107932.jpg\")"
+  "blue-topaz-theme@@background-settings-workplace-theme-dark-custom": "url(\"http://tuchuang.lazy-boy-acmer.cn/images/202404212107932.jpg\")",
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-simplicity-topaz",
+  "Blue-Topaz-Codebox-Highlight@@code-line-number": true,
+  "Blue-Topaz-Codebox-Highlight@@nowrap-edit-codebox": true
 }
