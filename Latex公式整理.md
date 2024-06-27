@@ -31,3 +31,15 @@ $$\begin{split}
 \cos 2x &= \cos^2x - \sin^2x \\
 &=2\cos^2x-1
 \end{split}$$
+$$\cup\quad \cap$$
+$$+\infty \quad\quad-\infty$$
+$$
+
+\begin{table}[!ht]
+    \centering
+    \begin{tabular}{|l|l|l|l|l|l|l|l|l|l|}
+    \hline
+
+    \end{tabular}
+\end{table}
+$$

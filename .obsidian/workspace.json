@@ -8,24 +8,26 @@
         "type": "tabs",
         "children": [
           {
-            "id": "191c2c121e241a8d",
+            "id": "7005ae2da3884775",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "算法学习/图论.md",
+                "file": "Latex公式整理.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "395c6813f59b7e1c",
+            "id": "091cfb5ec81c7dea",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Java EE/实验六/实验6 Spring+SpringMVC+MyBatis整合.pdf"
+                "file": "24-1期末复习/概率.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java EE/实验六/实验6 Spring+SpringMVC+MyBatis整合.pdf",
+                "file": "24-1期末复习/概率.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java EE/实验六/实验6 Spring+SpringMVC+MyBatis整合.pdf"
+                "file": "24-1期末复习/概率.md"
               }
             }
           },
@@ -133,7 +135,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -145,42 +148,45 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "395c6813f59b7e1c",
+  "active": "091cfb5ec81c7dea",
   "lastOpenFiles": [
-    "模板/jiangly算法模板收集.md",
-    "模板/hello-algo-1.1.0-zh-cpp.pdf",
-    "Java EE/实验五/实验5 Spring+SpringMVC+MyBatis整合实验/实验5 Spring+SpringMVC+MyBatis整合实验.pdf",
-    "算法学习/图论.md",
-    "模板/算法模板.md",
+    "Latex公式整理.md",
+    "24-1期末复习/概率.md",
+    "24-1期末复习/images/20240627224604.png",
+    "24-1期末复习/images/20240627224153.png",
+    "24-1期末复习/images/20240627224445.png",
+    "比赛题解/GPLT2024/L2-4.cpp",
+    "24-1期末复习/images",
+    "比赛题解/2024四川省赛/L.Beef_Tripe_in_Soup_Pot.cpp",
+    "24-1期末复习",
+    "比赛题解/2024四川省赛/未命名.md",
+    "比赛题解/GPLT2024/L2-2.cpp",
+    "比赛题解/GPLT2024/L1-5.cpp",
+    "比赛题解/GPLT2024/L1-2.cpp",
+    "比赛题解/GPLT2024/L1-1.cpp",
+    "牛客/牛客周赛Round.31.md",
+    "比赛题解/2024四川省赛",
     "算法学习/数学知识.md",
-    "Excalidraw/Drawing 2024-05-09 10.01.39.excalidraw.md",
-    "Excalidraw",
-    "牛客/牛客周赛Round.38.md",
-    "牛客/牛客小白月赛90.md",
-    "模板/繁凡的ACM模板.pdf",
-    "pandoc/jiangly算法模板收集.pdf",
-    "pandoc/算法模板.pdf",
-    "pandoc",
-    "新建文件夹",
-    "Java EE/实验四/实验4 MyBatis实验/实验4 Spring与MyBatis实验.pdf",
-    "Java EE/实验四/实验4 MyBatis实验补充案例.pdf",
+    "Java EE/实验一/实验1 Spring开发环境搭建（IDEA版本）.pdf",
+    "codeforces/Codeforces Round 912 (Div.2).md",
+    "codeforces/模板.md",
     "codeforces/Codeforces Round 913 (Div. 3).md",
+    "codeforces/Codeforces Round 916 (Div. 3).md",
+    "codeforces/Codeforces Round 914 (Div. 2).md",
+    "codeforces/Codeforces Round 922 (Div. 2).md",
+    "codeforces/Goodbye2023.md",
+    "codeforces/Hello 2024.md",
+    "Atcoder/ABC Round.350.md",
     "ABTU/ABTU校赛补题.md",
     "杂题/蓝桥杂题.md",
+    "算法学习/最小生成树,二分图.md",
     "算法学习/ST表.md",
     "算法学习/最短路问题.md",
-    "算法学习/并查集.md",
-    "算法学习/最小生成树,二分图.md",
-    "牛客/牛客周赛Round.31.md",
+    "算法学习/图论.md",
     "牛客/牛客周赛Round.40.md",
-    "ABTU/ABTU 2023 Round 7 (div. 2).md",
-    "Atcoder/ABC Round.350.md",
-    "Atcoder/ABC Round.340.md",
-    "Atcoder/ABC Round.339.md",
-    "Atcoder/ABC Round.338.md",
-    "Atcoder/ABC Round.331.md",
-    "Atcoder/ABC Round 348.md",
-    "codeforces/Codeforces Round 912 (Div.2).md",
-    "codeforces/Codeforces Round 914 (Div. 2).md"
+    "牛客/牛客周赛Round.38.md",
+    "牛客/牛客小白月赛90.md",
+    "模板/jiangly算法模板收集.md",
+    "模板/算法模板.md"
   ]
 }

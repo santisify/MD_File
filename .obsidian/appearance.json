@@ -1,4 +1,8 @@
 {
   "accentColor": "",
-  "cssTheme": "Blue Topaz"
+  "cssTheme": "Encore",
+  "textFontFamily": "Monaco",
+  "monospaceFontFamily": "Segoe UI Emoji,Monaco",
+  "baseFontSizeAction": true,
+  "baseFontSize": 15
 }
