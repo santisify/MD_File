@@ -33,13 +33,3 @@ $$\begin{split}
 \end{split}$$
 $$\cup\quad \cap$$
 $$+\infty \quad\quad-\infty$$
-$$
-
-\begin{table}[!ht]
-    \centering
-    \begin{tabular}{|l|l|l|l|l|l|l|l|l|l|}
-    \hline
-
-    \end{tabular}
-\end{table}
-$$

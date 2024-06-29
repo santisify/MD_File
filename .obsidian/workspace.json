@@ -23,11 +23,9 @@
             "id": "091cfb5ec81c7dea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "24-1期末复习/概率.md",
-                "mode": "source",
-                "source": false
+                "file": "24-1期末复习/习概.pdf"
               }
             }
           }
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "24-1期末复习/概率.md",
+                "file": "24-1期末复习/习概.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "24-1期末复习/概率.md"
+                "file": "24-1期末复习/习概.pdf"
               }
             }
           },
@@ -144,14 +142,26 @@
       "graph:查看关系图谱": false,
       "command-palette:打开命令面板": false,
       "vscode-editor:新建代码文件": false,
-      "remotely-save:Remotely Save": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "remotely-save:Remotely Save": false
     }
   },
   "active": "091cfb5ec81c7dea",
   "lastOpenFiles": [
-    "Latex公式整理.md",
+    "24-1期末复习/概率.pdf",
+    "24-1期末复习/2024大学英语A4考试范围及思政要点.pdf",
+    "24-1期末复习/习概.pdf",
     "24-1期末复习/概率.md",
+    "codeforces/Hello 2024.md",
+    "codeforces/Goodbye2023.md",
+    "codeforces/Codeforces Round 922 (Div. 2).md",
+    "codeforces/Codeforces Round 912 (Div.2).md",
+    "codeforces/Codeforces Round 913 (Div. 3).md",
+    "Latex公式整理.md",
+    "24-1期末复习/8325e22fced28c3680e0a6525338148a.par.temp",
+    "24-1期末复习/651cf2bd28e33eecd713be5a9bb4fc03.par.temp",
+    "codeforces/Codeforces Round 914 (Div. 2).md",
+    "codeforces/草稿.md",
     "24-1期末复习/images/20240627224604.png",
     "24-1期末复习/images/20240627224153.png",
     "24-1期末复习/images/20240627224445.png",
@@ -161,21 +171,10 @@
     "24-1期末复习",
     "比赛题解/2024四川省赛/未命名.md",
     "比赛题解/GPLT2024/L2-2.cpp",
-    "比赛题解/GPLT2024/L1-5.cpp",
-    "比赛题解/GPLT2024/L1-2.cpp",
-    "比赛题解/GPLT2024/L1-1.cpp",
     "牛客/牛客周赛Round.31.md",
-    "比赛题解/2024四川省赛",
     "算法学习/数学知识.md",
-    "Java EE/实验一/实验1 Spring开发环境搭建（IDEA版本）.pdf",
-    "codeforces/Codeforces Round 912 (Div.2).md",
     "codeforces/模板.md",
-    "codeforces/Codeforces Round 913 (Div. 3).md",
     "codeforces/Codeforces Round 916 (Div. 3).md",
-    "codeforces/Codeforces Round 914 (Div. 2).md",
-    "codeforces/Codeforces Round 922 (Div. 2).md",
-    "codeforces/Goodbye2023.md",
-    "codeforces/Hello 2024.md",
     "Atcoder/ABC Round.350.md",
     "ABTU/ABTU校赛补题.md",
     "杂题/蓝桥杂题.md",
@@ -186,7 +185,6 @@
     "牛客/牛客周赛Round.40.md",
     "牛客/牛客周赛Round.38.md",
     "牛客/牛客小白月赛90.md",
-    "模板/jiangly算法模板收集.md",
-    "模板/算法模板.md"
+    "模板/jiangly算法模板收集.md"
   ]
 }

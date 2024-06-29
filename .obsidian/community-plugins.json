@@ -1,8 +1,9 @@
 [
   "obsidian-excalidraw-plugin",
-  "obsidian-latex-suite",
   "vscode-editor",
-  "remotely-save",
   "obsidian-pandoc",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "remotely-save",
+  "obsidian-latex-environments",
+  "obsidian-latex-suite"
 ]
